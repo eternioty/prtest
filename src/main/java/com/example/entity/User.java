@@ -8,4 +8,5 @@ public class User {
     private int age;
     private String address;
     private double price;
+    private float height;
 }
