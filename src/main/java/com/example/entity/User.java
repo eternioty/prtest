@@ -12,5 +12,5 @@ public class User {
     static String msg1 = "master test";
     static String msg2 = "hot-fix test";
     static String msge = "push test";
-
+    static String msge = "pull test";
 }
