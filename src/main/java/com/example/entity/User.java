@@ -11,6 +11,7 @@ public class User {
     private float height;
     static String msg1 = "master test";
     static String msg2 = "hot-fix test";
-    static String msge = "push test";
-    static String msge = "pull test";
+    static String msg3 = "push test";
+    static String msg4 = "pull test";
+
 }
