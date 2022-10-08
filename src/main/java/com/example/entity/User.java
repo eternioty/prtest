@@ -9,4 +9,5 @@ public class User {
     private String address;
     private double price;
     private float height;
+    static String msg = "hot-fix test";
 }
