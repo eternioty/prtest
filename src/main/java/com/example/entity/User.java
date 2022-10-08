@@ -9,5 +9,6 @@ public class User {
     private String address;
     private double price;
     private float height;
-    static String msg = "master test";
+    static String msg1 = "master test";
+    static String msg2 = "hot-fix test";
 }
