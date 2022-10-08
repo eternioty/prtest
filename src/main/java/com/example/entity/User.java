@@ -13,5 +13,6 @@ public class User {
     static String msg2 = "hot-fix test";
     static String msg3 = "push test";
     static String msg4 = "pull test";
+    static String msg5 = "gitee test";
 
 }
